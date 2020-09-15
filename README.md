@@ -2,14 +2,15 @@
 ![](https://img.shields.io/github/last-commit/simoneparri/Fatture_XML_Extractor) ![](https://img.shields.io/badge/version-1.4.1-brightgreen) ![](https://img.shields.io/github/issues/simoneparri/Fatture_XML_Extractor)
 
 Applicazione che estrae in maniera massiva i dati presenti nelle fatture elettroniche su di un file csv.
-L&rsquo;applicazione supporta sia i file .xml che i .p7m (fatture firmate digitalmente)
+L'applicazione supporta sia i file .xml che i .p7m (fatture firmate digitalmente)
 
 #### Installazione
-Sotto la cartella build è presente l'installer, scaricare sempre l'ultima versione, eseguire il programma scaricato.
-Alcuni antivirus bloccano l'installer come falso positivo, disattivarli temporaneamente per la durata del processo di installazioen.
+All'interno della cartella build è presente l'installer, scaricare sempre l'ultima versione, eseguire il programma scaricato.
+Alcuni antivirus bloccano l'installer come falso positivo, disattivare l'antivirus temporaneamente per l'intera durata del processo di installazione.
 
 #### Utilizzo
 Prelevare dal sito dell'Agenzia delle Entrate o da un altro provider di fatturazione le fatture elettroniche in una cartella, avviare FattureXmlExtractor e selezionare la cartella, il programma rileverà il nomero e i tipi di fatture presenti e estrarrerà i dati in un file .csv
+Alcuni antivirus bloccano l'esecuzione del programma, aggiugnere un'eccezzione o disattivare l'antivirus temporaneamente per poter utilizzare Fatture_XML_Extractor.
 
 #### Prerequisiti
 - [Java](https://www.java.com/it/download/)
