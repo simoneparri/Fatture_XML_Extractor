@@ -9,7 +9,7 @@ All'interno della cartella build è presente l'installer, scaricare sempre l'ult
 Alcuni antivirus bloccano l'installer come falso positivo, disattivare l'antivirus temporaneamente per l'intera durata del processo di installazione.
 
 #### Utilizzo
-Prelevare dal sito dell'Agenzia delle Entrate o da un altro provider di fatturazione le fatture elettroniche in una cartella, avviare FattureXmlExtractor e selezionare la cartella, il programma rileverà il nomero e i tipi di fatture presenti e estrarrerà i dati in un file .csv
+Prelevare dal sito dell'Agenzia delle Entrate o da un altro provider di fatturazione le fatture elettroniche e raccoglierle in una determinata cartella, avviare FattureXmlExtractor e selezionare la cartella, il programma rileverà il numero e i tipi di fatture presenti e estrarrerà i dati in un unico file .csv
 Alcuni antivirus bloccano l'esecuzione del programma, aggiugnere un'eccezzione o disattivare l'antivirus temporaneamente per poter utilizzare Fatture_XML_Extractor.
 
 #### Prerequisiti
